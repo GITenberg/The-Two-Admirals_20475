@@ -29,6 +29,8 @@ description: "The Two Admirals is an 1842 nautical fiction novel by James Fenimo
   \ studies of masculinity.\nThe original manuscript for the novel is held by the\
   \ Special Collections Department at the University of Virginia Library and contains\
   \ 257 pages.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20475#The-Two-Admirals
 gutenberg_issued: '2007-01-29'
 gutenberg_type: Text
 identifiers:
