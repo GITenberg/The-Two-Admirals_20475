@@ -1,0 +1,54 @@
+_repo: The-Two-Admirals_20475
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cooper, James Fenimore
+    aliases:
+    - Morgan, Jane
+    - Cooper, J. Fenimore (James Fenimore)
+    - Cooper, Fenimore
+    birthdate: 1789
+    deathdate: 1851
+    gutenberg_agent_id: '483'
+    url: http://www.gutenberg.org/2009/agents/483
+    wikipedia: http://en.wikipedia.org/wiki/James_Fenimore_Cooper
+description: "The Two Admirals is an 1842 nautical fiction novel by James Fenimore\
+  \ Cooper. The novel was written after the Leatherstocking Tales novel The Deerslayer.\
+  \ Set during the 18th century and exploring the British Royal Navy, Cooper wrote\
+  \ the novel out of encouragement of his English publisher, who recommended writing\
+  \ another sea novel. Cooper had originally intended to write a novel where ships\
+  \ were the main characters, though eventually decided not to. The novels is one\
+  \ of three novels which Cooper would revise for editions following their first printing,\
+  \ the other two being The Pathfinder and Deerslayer.\nWhen republishing the novel\
+  \ in the 1860s, Cooper's Daughter, Susan Fenimore Cooper, described the novel as\
+  \ \"the least successful of his romances of the sea\". Despite the novel not having\
+  \ a large legacy, critic Stev Harthorn describes the novel as one of Cooper's deepest\
+  \ studies of masculinity.\nThe original manuscript for the novel is held by the\
+  \ Special Collections Department at the University of Virginia Library and contains\
+  \ 257 pages.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2007-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20475'
+  wikidata: Q21012425
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Admirals -- Fiction'
+- !lcsh 'Great Britain -- History, Naval -- 18th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Kings and rulers -- Succession -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Inheritance and succession -- Fiction'
+title: The Two Admirals
+url: http://www.gutenberg.org/ebooks/20475
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Two_Admirals
